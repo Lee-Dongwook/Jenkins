@@ -50,4 +50,6 @@ public class SoftwareSTest {
     driver.findElement(By.id("search_button")).click();
     //driver.close();
   }
+
+  //소프트웨어공학 B811126 이동욱
 }
